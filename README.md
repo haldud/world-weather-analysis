@@ -1,5 +1,5 @@
 # World Weather Analysis
-The primary purpose of this project is to experiment with Web API calls through Python.
+The primary purpose of this project was to experiment with Web API calls through Python.
 - We made use of citypy APIs to generate several hundred random cities.
 - We made use of Open Weather Map APIs to retrieve the weather information.
 - We made use of gmaps and Google Maps APIs to retrieve nearby places and directions.
