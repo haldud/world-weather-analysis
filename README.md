@@ -12,7 +12,7 @@ For this module's challenge, we wrote code to do the following:
     - called Open Weather Map APIs to retrieve weather
     - saved the weather file in CSV format
 2. For part 2, we provided the ability to capture input and called Google APIs by prompting the user for criteria in a vacation search scenario. The code can be found here: [Vacation_Search.ipynb](https://github.com/haldud/world-weather-analysis/blob/790aa97f117a15da919d4edf083e8fe88d869e80/Vacation_Search/Vacation_Search.ipynb)
-    - captured users maximum and minimum temperature
+    - captured user's maximum and minimum temperature
     - filtered the list of cities to temperature range
     - called Google APIs to find lodging in list of cities
     - saved output CSV file with city info along with nearest hotel
