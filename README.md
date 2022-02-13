@@ -7,8 +7,8 @@ The primary purpose of this project was to experiment with Web API calls through
 ## Challenge
 For this module's challenge, we wrote code to do the following:
 1. For part 1, we generated a weather database [file](https://github.com/haldud/world-weather-analysis/blob/790aa97f117a15da919d4edf083e8fe88d869e80/Weather_Database/WeatherPy_Database.csv). The code can be found in the following Jupyter Notebook file: [Weather_Database.ipynb](https://github.com/haldud/world-weather-analysis/blob/790aa97f117a15da919d4edf083e8fe88d869e80/Weather_Database/Weather_Database.ipynb)
-    - generated 2,000 random latitudes and longitudes.
-    - called citypy APIs to convert the lats/lngs into city names.
+    - generated 2,000 random latitudes and longitudes
+    - called citypy APIs to convert the lats/lngs into city names
     - called Open Weather Map APIs to retrieve weather
     - saved the weather file in CSV format
 2. For part 2, we provided the ability to capture input and called Google APIs by prompting the user for criteria in a vacation search scenario. The code can be found here: [Vacation_Search.ipynb](https://github.com/haldud/world-weather-analysis/blob/790aa97f117a15da919d4edf083e8fe88d869e80/Vacation_Search/Vacation_Search.ipynb)
